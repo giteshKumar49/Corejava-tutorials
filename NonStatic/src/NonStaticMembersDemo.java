@@ -4,10 +4,10 @@ public class NonStaticMembersDemo {
             // value for this variable
 
     NonStaticMembersDemo() {
-        System.out.println("Inside The concstuctor");
+        System.out.println("Inside The constructor");
     }
     NonStaticMembersDemo(int num) {
-        System.out.println("Inside parameterised concstuctor");
+        System.out.println("Inside parameterised constructor ");
     }
 
     static {

@@ -7,9 +7,11 @@ public class StaticMethodsDemo {
     static void method1() {
         System.out.println("Inside Method 1");
     }
+
+
     {
         //This do not execute as we haven't created any object of this class
-        System.out.println("Indie Non-static Block");
+        System.out.println("Inside Non-static Block");
         StaticMethodsDemo.method1();
     }
     static {

@@ -9,7 +9,7 @@ public class ObjectAndStringComparisionDemo {
         System.out.println(user1 == user2);
         // By default .equals() method wil work same as == only for normal classes,
         // it is programmers job to override the .equals() method when using it in
-        // their class. But fopr string .equals() method is already overwritten to check the content.
+        // their class. But for string .equals() method is already overwritten to check the content.
         // This is the reason why the below statement will return false even if the contents of both
         // user objects is same.
          System.out.println(user1.equals(user2));

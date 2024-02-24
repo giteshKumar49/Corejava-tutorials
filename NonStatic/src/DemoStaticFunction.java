@@ -1,5 +1,6 @@
 public class DemoStaticFunction {
     static DemoStaticFunction obj = new DemoStaticFunction();
+    int x;
 
     static {
         System.out.println(DemoStaticFunction.obj);
