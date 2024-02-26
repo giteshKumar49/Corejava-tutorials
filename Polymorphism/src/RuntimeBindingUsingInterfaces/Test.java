@@ -5,7 +5,7 @@ public class Test {
         // Similar to abstract classes and also similar to earlier discussion
         /*
         *
-        * Overriding concept do not apply to variables as type of ariables ie. the value
+        * Overriding concept do not apply to variables as type of variables ie. the value
         * they hold is decided by compiler at compile time and not at runtime.
         * */
         AppleLaptop air = new MacbookAir();
