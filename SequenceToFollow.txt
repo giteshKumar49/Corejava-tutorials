@@ -11,3 +11,5 @@
 11. Polymorphism
 12. Encapsulation (it is not there but you can refer in Core Java Course by Bharat Thippireddy Udemy)
 13. Exception Handling
+14. GenericsTutorial
+15. CollectionsTutorial

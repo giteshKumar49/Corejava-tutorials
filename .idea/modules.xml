@@ -6,8 +6,11 @@
       <module fileurl="file://$PROJECT_DIR$/Abstraction/Abstraction.iml" filepath="$PROJECT_DIR$/Abstraction/Abstraction.iml" />
       <module fileurl="file://$PROJECT_DIR$/Accessmodifiers/Accessmodifiers.iml" filepath="$PROJECT_DIR$/Accessmodifiers/Accessmodifiers.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollectionsTutorial/CollectionsTutorial.iml" filepath="$PROJECT_DIR$/CollectionsTutorial/CollectionsTutorial.iml" />
       <module fileurl="file://$PROJECT_DIR$/DateAndTime/DateAndTime.iml" filepath="$PROJECT_DIR$/DateAndTime/DateAndTime.iml" />
       <module fileurl="file://$PROJECT_DIR$/EventManagementUsecase/EventManagementUsecase.iml" filepath="$PROJECT_DIR$/EventManagementUsecase/EventManagementUsecase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExceptionHanlding/ExceptionHanlding.iml" filepath="$PROJECT_DIR$/ExceptionHanlding/ExceptionHanlding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GenericsTutorial/GenericsTutorial.iml" filepath="$PROJECT_DIR$/GenericsTutorial/GenericsTutorial.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Tutorial.iml" filepath="$PROJECT_DIR$/.idea/Java-Tutorial.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java8Features/Java8Features.iml" filepath="$PROJECT_DIR$/Java8Features/Java8Features.iml" />
